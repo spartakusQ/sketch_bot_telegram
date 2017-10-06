@@ -71,17 +71,9 @@ MINERAL = sketch.mineral
 # RANDOM = sketch.random
 
 
-
-
-
-
-
-
-
 Telegram::Bot::Client.run(ENV['TOKEN']) do |bot|
   bot.listen do |message|
     case message.text
-
 
     when '/start', '/start start'
       bot.api.send_message(
@@ -94,8 +86,6 @@ Telegram::Bot::Client.run(ENV['TOKEN']) do |bot|
              .new(keyboard: [%w(/help /sketch)], one_time_keyboard: true)
          bot.api.send_message(chat_id: message.chat.id, text: question, reply_markup: answers)
 
-
-
     when '/help'
       bot.api.send_message(
       chat_id: message.chat.id,
@@ -103,13 +93,11 @@ Telegram::Bot::Client.run(ENV['TOKEN']) do |bot|
        /start возврат в главное меню бота.
        /help меню помощи и подсказок.
        /sketch выбор скетча.")
-
        question = 'Помощь.'
        answers =
             Telegram::Bot::Types::ReplyKeyboardMarkup
               .new(keyboard: [%w(/start /help /sketch)], one_time_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: question, reply_markup: answers)
-
 
     when '/sketch'
       question = 'Выберите тип скетча.'
