@@ -1,0 +1,657 @@
+Гагара белоклювая 	Gavia adamsii 	White-billed Diver
+Гагара чернозобая 	Gavia arctica 	Black-throated Diver
+Гагара черноклювая 	Gavia immer 	Great Northern Diver
+Гагара белошейная 	Gavia pacifica 	Pacific Diver
+Гагара краснозобая 	Gavia stellata 	Red-throated Diver
+Поганка красношейная 	Podiceps auritus 	Slavonian Grebe
+Поганка большая 	Podiceps cristatus 	Great Crested Grebe
+Поганка серощекая 	Podiceps grisegena 	Red-necked Grebe
+Поганка черношейная 	Podiceps nigricollis, Podiceps caspicus 	Black-necked Grebe
+Поганка малая 	Podiceps ruficollis, Tachybaptus ruficollis 	Little Grebe
+Качурка прямохвостая 	Hydrobates pelagicus 	Storm-Petrel
+Качурка сизая 	Oceanodroma furcata 	Grey Fork-tailed Petrel
+Качурка северная 	Oceanodroma leucorhoa 	Leach's Petrel
+Качурка малая 	Oceanodroma monorhis 	Swinhoe's Petrel
+Глупыш 	Fulmarus glacialis 	Fulmar
+Буревестник малый 	Puffinus puffinus, Puffinus yelkouan 	Manx Shearwater
+Буревестник пестролицый 	Calonectris leucomelas 	Audubon’s Shearwater
+Пеликан кудрявый 	Pelecanus crispus 	Dalmatian pelican
+Пеликан розовый 	Pelecanus onocrotalus 	Great White Pelican
+Баклан хохлатый 	Phalacrocorax aristotelis 	Shag
+Баклан японский 	Phalacrocorax capillatus, Phalacrocorax filamentosus 	Temminck's Cormorant
+Баклан большой 	Phalacrocorax carbo 	Cormorant
+Баклан Берингов 	Phalacrocorax pelagicus 	Pelagic Cormorant
+Баклан малый 	Phalacrocorax pygmaeus 	Pygmy Cormorant
+Баклан краснолицый 	Phalacrocorax urile 	Red-faced Cormorant
+Олуша северная 	Sula bassana, Morus bassanus 	Northern Gannet
+Цапля серая 	Ardea cinerea 	Grey Heron
+Цапля рыжая 	Ardea purpurea 	Purple Heron
+Цапля желтая 	Ardeola ralloides 	Squacco Heron
+Выпь большая 	Botaurus stellaris 	Bittern
+Цапля египетская 	Bubulcus ibis 	Cattle Egret
+Кваква зеленая 	Butorides striatus 	Striated Heron
+Цапля большая белая 	Egretta alba, Casmerodius albus 	Great White Egret
+Цапля малая белая 	Egretta garzetta 	Little Egret
+Выпь амурская 	Ixobrychus eurhytmus 	Shrenk's Bittern
+Выпь малая 	Ixobrychus minutus 	Little Bittern
+Кваква 	Nycticorax nycticorax 	Night Heron
+Аист дальневосточный 	Ciconia boyciana 	White Stork
+Аист белый 	Ciconia ciconia 	Oriental White Stork
+Аист черный 	Ciconia nigra 	Black Stork
+Колпица 	Platalea leucorodia 	Spoonbill
+Каравайка 	Plegadis falcinellus 	Glossy Ibis
+Фламинго обыкновенный 	Phoenicopterus roseus, Phoenicopterus ruber 	Greater Flamingo
+Мандаринка 	Aix galericulata 	Mandarin Duck
+Гусь нильский 	Alopochen aegyptiacus 	Egyptian Goose
+Шилохвость обыкновенная 	Anas acuta 	Northern Pintail
+Чирок мраморный 	Anas angustirostris, Marmaronetta angustirostris 	Marbled Teal
+Широконоска 	Anas clypeata 	Shoveler
+Чирок-свистунок 	Anas crecca 	Teal
+Косатка 	Anas falcata 	Falcated Duck
+Клоктун 	Anas formosa 	Baikal Teal
+Шилохвость чилийская желтоклювая 	Anas georgica spinicauda 	Yellow-billed Pintail
+Свиязь 	Anas penelope 	Eurasian Wigeon
+Кряква 	Anas platyrhynchos 	Mallard
+Кряква черная 	Anas poecilorhyncha 	Spot-billed Duck
+Чирок-трескунок 	Anas querquedula 	Garganey
+Утка серая 	Anas strepera 	Gadwall
+Гусь белолобый 	Anser albifrons 	White-fronted Goose
+Гусь серый 	Anser anser 	Greylag Goose
+Гусь белый 	Anser caerulescens, Chen hyperboreus, Chen caerulescens 	Snow Goose
+Белошей 	Anser canagicus, Philacte canagica 	Emperor Goose
+Сухонос 	Anser cygnoides, Cygnopsis cygnoides 	Swan
+Пискулька 	Anser erythropus 	Lesser White-fronted Goose
+Гуменник 	Anser fabalis 	Bean Goose
+Гусь горный 	Anser indicus, Eulabeia indica 	Bar-headed Goose
+Чернеть Бэра 	Aythya baeri 	Baer's Pochard
+Нырок красноголовый 	Aythya ferina 	Common Pochard
+Чернеть хохлатая 	Aythya fuligula 	Tufted Duck
+Чернеть морская 	Aythya marila 	Greater Scaup
+Нырок белоглазый 	Aythya nyroca 	Ferruginous Duck
+Казарка черная 	Branta bernicla 	Brent Goose
+Казарка канадская 	Branta canadensis 	Canada Goose
+Казарка белощекая 	Branta leucopsis 	Barnacle Goose
+Казарка американская 	Branta nigricans, Branta bernicla nigricans 	Black Brant
+Казарка краснозобая 	Branta ruficollis, Rufibrenta ruficollis 	Red-brested Goose
+Гоголь 	Bucephala clangula 	Common Goldeneye
+Гоголь исландский 	Bucephala islandica 	Barrow's Goldeneye
+Гусь красноголовый 	Chloephaga rubidiceps 	Ruddy-headed Goose
+Морянка 	Clangula hyemalis 	Long-tailed Duck
+Коскороба 	Coscoroba coscoroba 	Coscoroba Swan
+Лебедь черный 	Cygnus atratus 	Black swan
+Лебедь малый 	Cygnus bewickii 	Bewick’s Swan
+Лебедь-трубач 	Cygnus buccinator 	Trumpeter Swan
+Лебедь-кликун 	Cygnus cygnus 	Whooper Swan
+Лебедь черношейный 	Cygnus melancoryphus 	Black-necked Swan
+Лебедь-шипун 	Cygnus olor 	Mute swan
+Каменушка 	Histrionicus histrionicus 	Harlequin Duck
+Синьга американская 	Melanitta americana 	Black-winged Scoter
+Турпан горбоносый 	Melanitta deglandi 	White-winged Scoter
+Турпан обыкновенный 	Melanitta fusca 	Velvet Scoter
+Синьга 	Melanitta nigra 	Common Scoter
+Луток 	Mergus albellus, Mergellus albellus 	Smew
+Крохаль большой 	Mergus merganser 	Goosander
+Крохаль длинноносый 	Mergus serrator 	Red-breasted Merganser
+Нырок пампасный 	Netta peposaca 	Rosybill Pochard
+Нырок красноносый 	Netta rufina 	Red-crested Pochard
+Савка 	Oxyrra leucocephala 	White-headed Duck
+Гага сибирская 	Polysticta stelleri 	Steller's Eider
+Утка Хартлауба 	Pteronetta hartlaubii 	Hartlaub's Duck
+Гага очковая 	Somateria fischeri 	Spectacled Eider
+Гага обыкновенная 	Somateria molissima 	Common Eider
+Гага-гребенушка 	Somateria spectabilis 	King Eider
+Огарь 	Tadorna ferruginea 	Ruddy Shelduck
+Пеганка 	Tadorna tadorna 	Common Shelduck
+Тювик 	Accipiter badius 	Shikra
+Тювик европейский 	Accipiter brevipes 	Levant Sparrowhawk
+Ястреб-тетеревятник 	Accipiter gentilis 	Northern Goshawk
+Перепелятник малый 	Accipiter gularis 	Little Sparrowhawk
+Ястреб-перепелятник 	Accipiter nisus 	Sparrow Hawk
+Гриф черный 	Aegypius monachus 	Cinereous Vulture
+Беркут 	Aquila chrysaetos 	Golden Eagle
+Подорлик большой 	Aquila clanga 	Greater Spotted Eagle
+Могильник 	Aquila heliaca 	Imperial Eagle
+Подорлик малый 	Aquila pomarina 	Lesser Spotted Eagle
+Орел степной 	Aquila rapax, Aquila nipalensis 	Tawny Eagle
+Сарыч ястребиный 	Butastur indicus 	Grey-faced Buzzard
+Канюк обыкновенный 	Buteo buteo 	Common Buzzard
+Курганник мохноногий 	Buteo hemilasius 	Upland Buzzard
+Зимняк 	Buteo lagopus 	Rough-legged Buzzard
+Курганник 	Buteo rufinus 	Long-legged Buzzard
+Змееяд 	Circaetus gallicus 	Short-toed Eagle
+Лунь болотный 	Circus aeruginosus 	Western Marsh Harrier
+Лунь полевой 	Circus cyaneus 	Hen Harrier
+Лунь степной 	Circus macrourus 	Pallid Harrier
+Лунь пегий 	Circus melanoleucos 	Pied Harrier
+Лунь луговой 	Circus pygargus 	Montagu's Harrier
+Лунь восточный болотный 	Circus spilonotus, Circus aeruginosus spilonotus 	Eastern Marsh Harrier
+Бородач 	Gypaetus barbatus 	Lammergeier
+Сип белоголовый 	Gyps fulvus 	Griffon Vulture
+Орлан-белохвост 	Haliaeetus albicilla 	White-tailed Eagle
+Орлан белоплечий 	Haliaeetus pelagicus 	Steller's Sea Eagle
+Орел ястребиный 	Hieraaetus fasciatus 	Bonelli's Eagle
+Орел-карлик 	Hieraaetus pennatus, Aquila pennata 	Booted Eagle
+Коршун черный 	Milvus migrans 	Black Kite
+Коршун красный 	Milvus milvus 	Red Kite
+Стервятник 	Neophron percnopterus 	Egyptian Vulture
+Осоед обыкновенный 	Pernis apivorus 	Honey Buzzard
+Осоед хохлатый 	Pernis ptilorhyncus 	Crested-honey Buzzard
+Кобчик амурский 	Falco amurensis 	Amur Red-footed Falcon
+Балобан 	Falco cherrug 	Saker Falcon
+Дербник 	Falco columbarius 	Merlin
+Пустельга степная 	Falco naumanni 	Lesser Kestrel
+Сапсан 	Falco peregrinus 	Peregrine
+Кречет 	Falco rusticolus 	Gyrfalcon
+Чеглок 	Falco subbuteo 	Northern Hobby
+Пустельга 	Falco tinnunculus 	Common Kestrel
+Кобчик 	Falco vespertinus 	Red-footed Falcon
+Скопа 	Pandion haliaetus 	Osprey
+Кеклик 	Alectoris chukar 	Chukar
+Куропатка пустынная 	Ammoperdix griseogularis 	Red-Willow Grouse
+Перепел 	Coturnix coturnix  	Quail
+Перепел японский 	Coturnix japonica 	Japanese Quail
+Турач 	Francolinus francolinus 	Black Francolin
+Павлин обыкновенный 	Pavo cristatus 	Indian Peafowl
+Куропатка бородатая 	Perdix daurica 	Daurian Partridge
+Куропатка серая 	Perdix perdix 	Partridge
+Фазан 	Phasianus colchicus 	Pheasant
+Улар кавказский 	Tetraogallus caucasicus 	Caucasian Snowcock
+Улар гималайский 	Tetraogallus himalayensis 	Himalayan Snowcock
+Куропатка белая 	Lagopus lagopus 	Red-Willow Grouse
+Куропатка тундряная 	Lagopus mutus 	Ptarmigan
+Тетерев 	Lyrurus tetrix 	Black Grouse
+Глухарь 	Tetrao urogallus 	Capercaillie
+Рябчик 	Tetrastes bonasia 	Hazel Grouse
+Журавль-красавка 	Anthropoides virgo 	Demoiselle Crane
+Журавль канадский 	Grus canadensis 	Sandhill Crane
+Журавль серый 	Grus grus 	Crane
+Журавль японский 	Grus japonensis 	Siberian Crane
+Стерх 	Grus leucogeranus 	Japanese Crane
+Журавль черный 	Grus monacha 	Hooded Crane
+Журавль даурский 	Grus vipio 	White-naped Crane
+Дрофа 	Otis tarda 	Great Bustard
+Стрепет 	Otis tetrax, Tetrax tetrax 	Little Bustard
+Дрофа-красотка 	Chlamydotis undulata, Chlamydotis macqueenii 	Houbara Bustard
+Коростель 	Crex crex 	Corncrake
+Лысуха 	Fulica atra 	Common Coot
+Камышница 	Gallinula chloropus 	Moorhen
+Султанка 	Porphyrio porphyrio, Porphyrio poliocephalus 	Purple Swamphen
+Погоныш красноногий 	Porzana fusca 	Ruddy Crake
+Погоныш малый 	Porzana parva 	Little Crake
+Погоныш большой 	Porzana paykullii 	Band-bellied Crake
+Погоныш 	Porzana porzana 	Spotted Crake
+Погоныш-крошка 	Porzana pusilla 	Baillon's Crake
+Пастушок 	Rallus aquaticus 	Water Rail
+Трехперстка пятнистая 	Turnix tanki 	Hemipode
+Конюга большая 	Aethia cristatella 	Crested Auklet
+Конюга-крошка 	Aethia pusilla 	Least Auklet
+Конюга малая 	Aethia pygmaea 	Whiskered Auklet
+Люрик 	Alle alle 	Little Auk
+Гагарка 	Alca torda 	Razorbill
+Пыжик короткоклювый 	Branchyramphus brevirostris 	Kittlitz’s Murrelet
+Пыжик длинноклювый 	Branchyramphus marmoratus 	Marbled Murrelet
+Чистик очковый 	Cepphus carbo 	Spectacled Guillemot
+Чистик тихоокеанский 	Cepphus columba 	Pigeon Guillemot
+Чистик 	Cepphus grylle 	Black Guillemot
+Тупик-носорог 	Cerorhinca monocerata 	Horn-billed Puffin
+Белобрюшка 	Cyclorrhynchus psittacula 	Parakeet Auklet
+Тупик 	Fratercula arctica 	Puffin
+Ипатка 	Fratercula corniculata 	Horned Puffin
+Топорик 	Lunda cirrhata 	Tufted Puffin
+Пыжик алеутский 	Ptychoramphus aleuticus  	Cassin's Auklet
+Старик 	Synthliboramphus antiquus 	Ancient Murrelet
+Кайра тонкоклювая 	Uria aalge 	Guillemot
+Кайра толстоклювая 	Uria lomvia 	Brunnich’s Guillemot
+Авдотка 	Burhinus oedicnemus 	Stone Curlew
+Камнешарка 	Arenaria interpres 	Turnstone
+Зуек морской 	Charadrius alexandrinus 	Kentish Plover
+Зуек каспийский 	Charadrius asiaticus 	Caspian Plover
+Зуёк малый 	Charadrius dubius 	Little Ringed Plover
+Галстучник 	Charadrius hiaticula 	Ringed Plover
+Зуек толстоклювый 	Charadrius leschenaultii 	Greater Sand Plover
+Зуек монгольский 	Charadrius mongolus 	Lesser Sand Plover
+Зуек перепончатопалый 	Charadrius semipalmatus 	Semipalmated Plover
+Зуек крикливый 	Charadrius vociferus 	Killdeer
+Кречетка 	Chettusia gregaria 	Sociable Plover
+Пигалица белохвостая 	Chettusia leucura, Vanellochettusia leucura 	White-tailed Plover
+Хрустан 	Eudromias morinellus 	Dotterel
+Чибис серый 	Microsarcops cinereus 	Grey-headed Lapwing
+Ржанка золотистая 	Pluvialis apricaria 	Golden Plover
+Ржанка американская 	Pluvialis dominica 	American Golden Plover
+Ржанка бурокрылая 	Pluvialis fulva 	Pacific Golden Plover
+Тулес 	Pluvialis squatarola 	Grey Plover
+Чибис 	Vanellus vanellus 	Lapwing
+Тиркушка степная 	Glareola nordmanni 	Black-winged Pratincole
+Тиркушка луговая 	Glareola pratincola 	Collared Pratincole
+Кулик-сорока 	Haematopus ostralegus 	Eurasian Oystercatcher
+Крачка белощекая 	Chlidonias hybrida 	Whiskered Tern
+Крачка белокрылая 	Chlidonias leucopterus, leucoptera 	White-winged Tern
+Крачка черная 	Chlidonias niger, nigra 	Black Tern
+Крачка чайконосая 	Gelochelidon nilotica 	Gull-billed Tern
+Чеграва 	Hydroprogne caspia, Sterna caspia 	Caspian Tern
+Чайка серебристая 	Larus argentatus 	European Herring Gull
+Чайка армянская 	Larus armenicus, Larus cachinnans armenicus 	Armenian Gull
+Чайка буроголовая 	Larus brunnicephalus 	Brown-headed Gull
+Хохотунья 	Larus cachinnans 	Yellow-legged Gull
+Чайка сизая 	Larus canus 	Common Gull
+Чайка чернохвостая 	Larus crassirostris 	Black-tailed Gull
+Клуша 	Larus fuscus 	Lesser Black-backed Gull
+Голубок морской 	Larus genei 	Slender-billed Gull
+Чайка серокрылая 	Larus glaucescens 	Glaucous-winged Gull
+Клуша восточная 	Larus heuglini 	Oriental Black-backed Gull
+Бургомистр 	Larus hyperboreus 	Glaucous Gull
+Хохотун черноголовый 	Larus ichthyaetus 	Great Black-headed Gull
+Чайка морская 	Larus marinus 	Great Black-backed Gull
+Чайка черноголовая 	Larus melanocephalus 	Mediterranean Gull
+Чайка малая 	Larus minutus 	Little Gull
+Чайка реликтовая 	Larus relictus 	Relict Gull
+Чайка озерная 	Larus ridibundus 	Black-headed
+Чайка тихоокеанская 	Larus schistisagus 	Slaty-backed Gull
+Чайка белая 	Pagophila eburnea 	Ivory Gull
+Чайка розовая 	Rhodostethia rosea 	Ross's Gull
+Говорушка красноногая 	Rissa brevirostris 	Red-legged Kittiwake
+Моевка 	Rissa tridactyla 	Kittiwake
+Крачка малая 	Sterna albifrons 	Little Tern
+Крачка алеутская 	Sterna aleutica 	Aleutian Terns
+Крачка речная 	Sterna hirundo 	Common Tern
+Крачка полярная 	Sterna paradisaea 	Arctic Tern
+Крачка пестроносая 	Thalasseus sandvicensis, Sterna sandvicensis 	Sandwich Tern
+Чайка вилохвостая 	Xema sabini 	Sabine's Gull
+Ходулочник 	Himantopus himantopus 	Black-winged Stilt
+Шилоклювка 	Recurvirostra avosetta, Recurvirostra avocetta 	Avocet
+Перевозчик 	Actitis hypoleucos, Tringa hypoleucos 	Common Sandpiper
+Песочник острохвостый 	Calidris acuminata 	Sharp-tailed Sandpiper
+Песчанка 	Calidris alba 	Sanderling
+Чернозобик 	Calidris alpina 	Dunlin
+Песочник Бэрдов 	Calidris bairdii 	Baird’s Sandpiper
+Песочник исландский 	Calidris canutus 	Knot
+Краснозобик 	Calidris ferruginea 	Curlew Sandpiper
+Песочник морской 	Calidris maritima 	Purple Sandpiper
+Песочник перепончатопалый 	Calidris mauri 	Western Sandpiper
+Дутыш 	Calidris melanotos 	Pectoral Sandpiper
+Кулик-воробей 	Calidris minuta 	Little Stint
+Песочник берингийский 	Calidris ptilocnemis 	Rock Sandpiper
+Песочник малый 	Calidris pusillus 	Semipalmated Sandpiper
+Песочник-красношейка 	Calidris ruficollis 	Red-necked Stint
+Песочник длиннопалый 	Calidris subminuta 	Long-toed Stint
+Песочник белохвостый 	Calidris temminckii 	Temminck’s Stint
+Песочник большой 	Calidris tenuirostris 	Great Knot
+Лопатень 	Eurynorhynchus pygmeus 	Spoon-billed Sandpiper
+Бекас 	Gallinago gallinago, Capella gallinago 	Snipe
+Бекас японский 	Gallinago hardwickii 	Latham's Snipe
+Дупель 	Gallinago media, Capella media 	Great Snipe
+Дупель лесной 	Gallinago megala 	Swinhoe’s Snipe
+Дупель горный 	Gallinago solitaria 	Solitary Snipe
+Бекас азиатский 	Gallinago stenura 	Pintail Snipe
+Улит сибирский пепельный 	Heteroscelus brevipes 	Grey-tailed Tattler
+Грязовик 	Limicola falcinellus 	Broad-billed Sandpiper
+Веретенник американский бекасовидный 	Limnodromus scolopaceus 	Short-billed Dowitcher
+Веретенник азиатский бекасовидный 	Limnodromus semipalmatus 	Asian Dowitcher
+Веретенник малый 	Limosa lapponica 	Bar-tailed Godwit
+Веретенник большой 	Limosa limosa 	Black-tailed Godwit
+Гаршнеп 	Lymnocryptes minimus, minima 	Jack Snipe
+Кроншнеп большой 	Numenius arquata 	Curlew
+Кроншнеп-малютка 	Numenius minutus 	Little Whimbrel
+Кроншнеп средний 	Numenius phaeopus 	Whimbrel
+Плавунчик плосконосый 	Phalaropus fulicarius 	Grey Phalarope
+Плавунчик круглоносый 	Phalaropus lobatus 	Red-necked Phalarope
+Турухтан 	Phylomachus pugnax 	Ruff
+Вальдшнеп 	Scolopax rusticola 	Woodcock
+Щеголь 	Tringa erythropus 	Spotted Redshank
+Фифи 	Tringa glareola 	Wood Sandpiper
+Улит охотский 	Tringa guttifer 	Spotted Greenshank
+Улит большой 	Tringa nebularia 	Greenshank
+Черныш 	Tringa ochropus 	Green Sandpiper
+Поручейник 	Tringa stagnatilis 	Marsh Sandpiper
+Травник 	Tringa totanus 	Redshank
+Желтозобик 	Tryngites subruficollis 	Buff-breasted Sandpiper
+Мородунка 	Xenus cinereus, Terekia cinerea 	Terek Sandpiper
+Поморник длиннохвостый 	Stercorarius longicaudus 	Long-tailed Skua
+Поморник короткохвостый 	Stercorarius parasiticus 	Arctic Skua
+Поморник средний 	Stercorarius pomarinus 	Pomarine Skua
+Поморник большой 	Stercorarius skua, Catharacta skua 	Great Skua
+Голубь бурый 	Columba eversmanni 	Yellow-eyed Pigeon
+Голубь сизый 	Columba livia 	Rock Dove
+Клинтух 	Columba oenas 	Stock Dove
+Вяхирь 	Columba palumbus 	Woodpigeon
+Голубь скалистый 	Columba rupestris 	Blue Hill Pigeon
+Горлица кольчатая 	Streptopelia decaocto 	Collared Dove
+Горлица большая 	Streptopelia orientlis 	Rufous Turtle Dove
+Горлица малая 	Streptopelia senegalensis 	Laughing Dove
+Горлица обыкновенная 	Streptopelia turtur 	Turtle Dove
+Рябок белобрюхий 	Pterocles alchata 	Pin-tailed Sandgrouse
+Рябок чернобрюхий 	Pterocles orientalis 	Black-bellied Sandgrouse
+Саджа 	Syrrhaptes paradoxus 	Pallas' Sandgrouse
+Кукушка обыкновенная 	Cuculus canorus 	Common Cuckoo
+Кукушка малая 	Cuculus poliocephalus 	Little Cuckoo
+Кукушка глухая 	Cuculus saturatus, Cuculus optatus 	Oriental Cuckoo
+Сыч мохноногий 	Aegolius funereus 	Tengmalm's Owl
+Сова болотная 	Asio flammeus 	Short-eared Owl
+Сова ушастая 	Asio otus 	Long-eared Owl
+Сыч домовый 	Athene noctua 	Little Owl
+Филин 	Bubo bubo 	Eagle Owl
+Сыч воробьиный 	Glaucidium passerinum 	Pygmy Owl
+Сова белая 	Nyctea scandiaca 	Snowy Owl
+Совка буланая 	Otus brucei 	Pallid Scops-owl
+Сплюшка 	Otus scops 	Scops Owl
+Неясыть серая 	Strix aluco 	Tawny Owl
+Неясыть бородатая 	Strix nebulosa 	Great Grey Owl
+Сипуха 	Tyto alba 	Barn Owl
+Козодой буланый 	Caprimulgus aegyptius 	Egyptian Nightjar
+Козодой обыкновенный 	Caprimulgus europaeus 	European Nightjar
+Козодой большой 	Caprimulgus indicus 	Jungle Nightjar
+Стриж черный 	Apus apus 	Common Swift
+Стриж белопоясный 	Apus pacificus 	Pacific Swift
+Стриж иглохвостый 	Hirundapus caudacutus 	Needle-tailed Swift
+Зимородок обыкновенный 	Alcedo atthis 	Kingfisher
+Сизоворонка 	Coracias garrulus 	Roller
+Щурка золотистая 	Merops apiaster 	European Bee-eater
+Щурка зеленая 	Merops superciliosus, Merops persicus 	Blue-cheeked Bee-eater
+Удод 	Upupa epops 	Hoopoe
+Дятел карликовый 	Dendrocopos kizuki 	Japanese Pygmy Woodpecker
+Дятел белокрылый 	Dendrocopos leucopterus 	White-winged Woodpecker
+Дятел белоспинный 	Dendrocopos leucotos 	White-backed Woodpecker
+Дятел большой пестрый 	Dendrocopos major 	Great spotted woodpecker
+Дятел средний пестрый 	Dendrocopos medius 	Middle Spotted Woodpecker
+Дятел малый пестрый 	Dendrocopos minor 	Lesser Spotted Woodpecker
+Дятел сирийский 	Dendrocopos syriacus 	Syrian Woodpecker
+Дятел черный 	Dryocopus martius 	Black Woodpecker
+Вертишейка 	Jynx torquilla 	Wryneck
+Дятел трехпалый 	Picoides tridactylus  	Three-toed Woodpecker
+Дятел седой 	Picus canus 	Grey-headed Woodpecker
+Дятел зеленый 	Picus viridis 	Green Woodpecker
+Синица длиннохвостая 	Aegithalos caudatus 	Long-tailed Tit
+Синичка расписная 	Leptopoecile sophiae 	White-browed Tit-warbler
+Жаворонок полевой 	Alauda arvensis 	Skylark
+Жаворонок японский 	Alauda japonica 	Japanese Lark
+Жаворонок малый 	Calandrella brachydactyla, Calandrella cinerea 	Greater Short-toed Lark
+Жаворонок солончаковый 	Calandrella cheleensis 	Eastern Short-toed Lark
+Жаворонок серый 	Calandrella rufescens 	Lesser Short-toed Lark
+Жаворонок рогатый 	Eremophila alpestris 	Shore Lark
+Жаворонок хохлатый 	Galerida cristata 	Crested Lark
+Жаворонок лесной 	Lullula arborea 	Wood Lark
+Жаворонок двупятнистый 	Melanocorypha bimaculata 	Bimaculated Lark
+Жаворонок степной 	Melanocorypha calandra 	Calandra Lark
+Жаворонок белокрылый 	Melanocorypha leucoptera 	White-winged Lark
+Жаворонок монгольский 	Melanocorypha mongolica 	Mongolian Lark
+Жаворонок черный 	Melanocorypha yeltoniensis 	Black Lark
+Свиристель 	Bombycilla garrulus 	Waxwing
+Личинкоед 	Pericrocotus divaricatus 	Ashy Minivet
+Пищуха короткопалая 	Certhia brachydactyla 	Short-toed Treecreeper
+Пищуха обыкновенная 	Certhia familiaris 	Tree Creeper
+Пищуха гималайская 	Certhia himalayana 	Bar-tailed Tree-creeper
+Оляпка 	Cinclus cinclus 	Dipper
+Ворон 	Corvus corax 	Raven
+Ворона серая 	Corvus cornix 	Hooded Crow
+Галка даурская 	Corvus dauuricus 	Daurian Jackdaw
+Грач 	Corvus frugilegus 	Rook
+Ворона большеклювая 	Corvus macrorhynchos 	Jungle Crow
+Галка 	Corvus monedula 	Jackdaw
+Ворона восточная черная 	Corvus orientalis, Corvus corone orientalis 	Carrion Crow, eastern race
+Ворон пустынный 	Corvus ruficollis 	Brown-necked Raven
+Сорока голубая 	Cyanopica cyanus 	Azure-winged Magpie
+Сойка 	Garrulus glandarius 	Jay
+Кедровка 	Nucifraga caryocatactes 	Nutcracker
+Кукша 	Perisoreus infaustus 	Siberian Jay
+Сорока 	Pica pica 	Magpie
+Сойка саксаульная 	Podoces panderi 	Pander's Ground Jay
+Клушица 	Pyrrhocorax pyrrhocorax 	Chough
+Коноплянка 	Acanthis cannabina, Carduelis cannabina 	Linnet
+Чечетка 	Acanthis flammea 	Redpoll
+Чечетка горная 	Acanthis flavirostris 	Twite
+Чечетка пепельная 	Acanthis hornemanni, Carduelis hornemanni 	Arctic Redpoll
+Снегирь пустынный 	Bucanetes githagineus 	Trumpeter Finch
+Снегирь монгольский 	Bucanetes mongolicus 	Mongolian Trumpeter Finch
+Подорожник 	Calcarius lapponicus 	Lapland Bunting
+Щегол седоголовый 	Carduelis caniceps 	Himalayan Goldfinch
+Щегол 	Carduelis carduelis 	Goldfinch
+Зеленушка обыкновенная 	Carduelis chloris, Chloris chloris 	European Greenfinch
+Чечевица обыкновенная 	Carpodacus erythrinus, Erythrina erythrina 	Common Rosefinch
+Чечевица розовая 	Carpodacus grandis 	Red-Mantled Rosefinch
+Чечевица сибирская 	Carpodacus roseus 	Pallas's Rosefinch
+Зеленушка китайская 	Chloris sinica 	Oriental Greenfinch
+Дубонос 	Coccothraustes coccothraustes 	Hawfinch
+Дубровник 	Emberiza aureola, Ocyris aureolus 	Yellow-breasted Bunting
+Овсянка желчная 	Emberiza bruniceps, Granativora bruniceps 	Red-headed Bunting
+Овсянка скальная 	Emberiza buchanani 	Grey-necked Bunting
+Просянка 	Emberiza calandra 	Corn Bunting
+Овсянка желтобровая 	Emberiza chrysophrys, Ocyris chrysophrys 	Yellow-browed Bunting
+Овсянка горная 	Emberiza cia 	Rock Bunting
+Овсянка красноухая 	Emberiza cioides 	Siberian Meadow Bunting
+Овсянка огородная 	Emberiza cirlus 	Cirl Bunting
+Овсянка обыкновенная 	Emberiza citrinella 	Yellowhammer
+Овсянка желтогорлая 	Emberiza elegans, Cristemberiza elegans 	Yellow-throated Bunting
+Овсянка ошейниковая 	Emberiza fucata 	Grey-hooded Bunting
+Овсянка садовая 	Emberiza hortulana 	Ortolan Bunting
+Овсянка Янковского 	Emberiza jankowskii 	Jankowski’s Bunting
+Овсянка белошапочная 	Emberiza leucocephala 	Pine Bunting
+Овсянка монгольская 	Emberiza lydiae, Schoeniclus pallasi lydiae 	Pallas's Reed Bunting
+Овсянка черноголовая 	Emberiza melanocephala, Granativora melanocephala 	Black-headed Bunting
+Овсянка полярная 	Emberiza pallasi, Schoeniclus pallasi 	Pallas's Reed Bunting
+Овсянка-крошка 	Emberiza pusilla 	Little Bunting
+Овсянка-ремез 	Emberiza rustica 	Rustic Bunting
+Овсянка рыжая 	Emberiza rutila, Ocyris rutilus 	Chestnut Bunting
+Овсянка камышовая 	Emberiza schoeniclus, Schoeniclus schoeniclus 	Reed Bunting
+Овсянка седоголовая 	Emberiza spodocephala 	Black-faced Bunting
+Овсянка Стюарта 	Emberiza stewarti 	Chestnut-breasted Bunting
+Овсянка таежная 	Emberiza tristrami, Ocyris tristrami 	Tristram's Bunting
+Овсянка сизая 	Emberiza variabilis, Ocyris variabilis 	Grey Bunting
+Овсянка рыжешейная 	Emberiza yessoensis, Schoeniclus yessoensis 	Japanese Reed Bunting
+Дубонос малый черноголовый 	Eophona migratoria 	Chinese Grosbeak
+Дубонос большой черноголовый 	Eophona personata 	Japanese Grosbeak
+Зяблик 	Fringilla coelebs 	Chaffinch
+Юрок 	Fringilla montifringilla 	Brambling
+Вьюрок сибирский 	Leucosticte arctoa 	Rosy Finch
+Вьюрок гималайский 	Leucosticte nemoricola 	Hodgson's Rosy Finch
+Клест-еловик 	Loxia curvirostra 	Crossbill
+Клест белокрылый 	Loxia leucoptera 	Two-barred Crossbill
+Клест-сосновик 	Loxia pytyopsittacus 	Parrot Crossbill
+Дубонос арчовый 	Mycerobas carnipes 	White-winged Grosbeak
+Овсянка саванная 	Passerculus sandwichensis, Ammodramus sandwichensis 	Savannah Sparrow
+Щур 	Pinicola enucleator 	Pine Grosbeak
+Пуночка 	Plectrophenax nivalis 	Snow Bunting
+Снегирь уссурийский 	Pyrrhula griseiventris 	Ussuri Bullfinch
+Снегирь 	Pyrrhula pyrrhula 	Bullfinch
+Вьюрок буланый 	Rhodospiza obsoleta 	Desert Finch
+Вьюрок европейский 	Serinus serinus 	Serin
+Чиж 	Spinus spinus 	Siskin
+Урагус 	Uragus sibiricus 	Long-tailed Rosefinch
+Ласточка городская 	Delichon urbica 	House Martin
+Ласточка рыжепоясничная 	Hirundo daurica, Cecropis daurica 	Red-rumped Swallow
+Ласточка деревенская 	Hirundo rustica 	Barn Swallow
+Ласточка нитехвостая 	Hirundo smithii 	Wire-tailed Swallow
+Ласточка скалистая 	Ptyonoprogne rupestris 	Crag Martin
+Ласточка бледная 	Riparia diluta 	Pale Martin
+Ласточка береговая 	Riparia riparia 	Sand Martin
+Свиристель сорокопутовый 	Hypocolius ampelinus 	Grey Hypocolius
+Сорокопут-жулан 	Lanius collurio 	Common Shrike
+Жулан сибирский 	Lanius cristatus 	Brown Shrike
+Сорокопут серый 	Lanius excubitor 	Great Grey Shrike
+Жулан буланый 	Lanius isabellinus 	Isabelline Shrike
+Сорокопут пустынный 	Lanius meridionalis, Lanius excubitor pallidirostris 	Southern Grey Shrike
+Сорокопут чернолобый 	Lanius minor 	Lesser Grey Shrike
+Жулан рыжехвостый 	Lanius phoenicuroides, Lanius isabellinus phoenicuroides 	Isabelline Shrike
+Сорокопут красноголовый 	Lanius senator 	Woodchat Shrike
+Сорокопут клинохвостый 	Lanius sphenocercus 	Long-tailed Grey Shrike
+Жулан индийский 	Lanius vittatus 	Bay-backed Shrike
+Конек полевой 	Anthus campestris 	Tawny Pipit
+Конек краснозобый 	Anthus cervinus 	Red-throated Pipit
+Конек забайкальский 	Anthus godlewskii 	Blyth's Pipit
+Конек сибирский 	Anthus gustavi 	Pechora Pipit
+Конек пятнистый 	Anthus hodgsoni 	Olive-backed Pipit
+Конек скальный 	Anthus petrosus, Anthus spinoletta littoralis 	Rock Pipit
+Конек луговой 	Anthus pratensis 	Meadow Pipit
+Конек степной 	Anthus richardi, Anthus novaeseelandiae 	Richard's Pipit
+Конек американский 	Anthus rubescens 	Buff-bellied Pipit
+Конек горный 	Anthus spinoletta 	Water Pipit
+Конек лесной 	Anthus trivialis 	Tree Pipit
+Трясогузка древесная 	Dendronanthus indicus 	Forest Wagtail
+Трясогузка белая 	Motacilla alba 	White Wagtail
+Трясогузка горная 	Motacilla cinerea 	Grey Wagtail
+Трясогузка желтоголовая 	Motacilla citreola 	Yellow-headed Wagtail
+Трясогузка малая желтоголовая 	Motacilla citreola werae 	Citrine Wagtail
+Трясогузка желтая 	Motacilla flava 	Yellow Wagtail
+Трясогузка желтолобая 	Motacilla lutea, Motacilla flava lutea 	Yellow-forehead Wagtail
+Трясогузка маскированная 	Motacilla personata, Motacilla alba personata 	Masked Wagtail
+Трясогузка зеленоголовая 	Motacilla taivana, Motacilla tschutschensis taivana, Motacilla flava taivana 	Green-crowned Yellow Wagtai
+Трясогузка берингийская желтая 	Motacilla tschutschensis, Motacilla flava tschutschensis 	Beringian Yellow Wagtail
+Трясогузка китайская желтая 	Motacilla tschutschensis macronyx, Motacilla flava macronyx 	Southeast Siberian Yellow Wagtail
+Мухоловка синяя 	Cyanoptila cyanomelana 	Blue-and-white Flycatcher
+Мухоловка восточная малая 	Ficedula albicilla, Ficedula parva albicilla 	Taiga Flycatcher
+Мухоловка-белошейка 	Ficedula albicollis 	Collared Flycatcher
+Мухоловка-пеструшка 	Ficedula hypoleuca, Muscicapa hypoleuca 	Pied Flycatcher
+Мухоловка таежная 	Ficedula mugimaki 	Mugimaki Flycatcher
+Мухоловка японская 	Ficedula narcissina 	Narcissus Flycatcher
+Мухоловка малая 	Ficedula parva, Muscicapa parva 	Red-breasted Flycatcher
+Мухоловка полуошейниковая 	Ficedula semitorquata  	Semi-collared Flycatcher
+Мухоловка желтоспинная 	Ficedula zanthopygia 	Yellow-rumped Flycatcher
+Мухоловка пестрогрудая 	Muscicapa griseisticta 	Grey-streaked Flycatcher
+Мухоловка ширококлювая 	Muscicapa latirostris, Muscicapa dauurica 	Asian Brown Flycatcher
+Мухоловка рыжехвостая 	Muscicapa ruficauda 	Rusty-tailed Flycatcher
+Мухоловка сибирская 	Muscicapa sibirica 	Sooty Flycatcher
+Мухоловка серая 	Muscicapa striata 	Spotted Flycatcher
+Мухоловка райская 	Terpsiphone paradisi 	Black Paradise Flycatcher
+Иволга черноголовая 	Oriolus chinensis 	Black-naped Oriole
+Иволга 	Oriolus oriolus 	Golden Oriole
+Синица усатая 	Panurus biarmicus 	Bearded Tit
+Московка 	Parus ater 	Coal Tit
+Лазоревка обыкновенная 	Parus caeruleus 	Blue tit
+Гаичка сероголовая 	Parus cinctus 	Siberian Tit
+Синица серая 	Parus cinereus 	Cinereous Tit
+Синица хохлатая 	Parus cristatus 	Crested Tit
+Лазоревка белая 	Parus cyanus 	Azure Tit
+Гаичка средиземноморская 	Parus lugubris 	Sombre Tit
+Синица большая 	Parus major 	Great Tit
+Синица восточная 	Parus minor 	Japanese Tit
+Гаичка буроголовая 	Parus montanus, Parus atricapillus 	Willow Tit
+Гаичка черноголовая 	Parus palustris 	Marsh Tit
+Гаичка джунгарская 	Parus songarus 	Songar Tit
+Синица тисовая 	Parus varius 	Varied Tit
+Воробей саксаульный 	Passer ammodendri 	Saxaul Sparrow
+Воробей домовый 	Passer domesticus 	House Sparrow
+Воробей черногрудый 	Passer hispaniolensis 	Spanish Sparrow
+Воробей индийский 	Passer indicus 	Indian Sparrow
+Воробей полевой 	Passer montanus 	Tree Sparrow
+Воробей рыжий 	Passer rutilans 	Cinnamon Sparrow
+Воробей пустынный 	Passer simplex 	Desert Sparrow
+Воробей каменный 	Petronia petronia 	Rock Sparrow
+Завирушка черногорлая 	Prunella atrogularis 	Black-throated Accentor
+Завирушка альпийская 	Prunella collaris 	Alpine Accentor
+Завирушка бледная 	Prunella fulvescens 	Brown Accentor
+Завирушка гималайская 	Prunella himalayana 	Himalayan Accentor
+Завирушка лесная 	Prunella modularis 	Dunnock
+Завирушка сибирская 	Prunella montanella 	Siberian Accentor
+Королек красноголовый 	Regulus ignicapillus 	Firecrest
+Королек желтоголовый 	Regulus regulus 	Goldcrest
+Ремез венценосный 	Remiz coronatus, Remiz pendulinus coronatus 	White-crowned Penduline-tit
+Ремез обыкновенный 	Remiz pendulinus 	Penduline Tit
+Поползень 	Sitta europaea 	Nuthatch
+Поползень малый скальный 	Sitta neumayer 	Western Rock Nuthatch
+Поползень большой скальный 	Sitta tephronota 	Persian Nuthatch
+Майна обыкновенная 	Acridotheres tristis 	Common Myna
+Мино златогрудый 	Mino anais 	Golden-breasted mynah
+Скворец японский 	Sturnia philippensis 	Red-cheeked Starling
+Скворец малый 	Sturnia sturnina, Sturnus sturnus 	Daurian Starling
+Скворец серый 	Sturnus cineraceus 	Grey Starling
+Скворец розовый 	Sturnus roseus, Pastor roseus 	Rose-coloured Starling
+Скворец обыкновенный 	Sturnus vulgaris 	Common Starling
+Камышовка толстоклювая 	Acrocephalus aeedon, Phragmaticola aedon, Iduna aedon 	Thick-billed Warbler
+Камышовка индийская 	Acrocephalus agricola 	Paddyfield Warbler
+Камышовка дроздовидная 	Acrocephalus arundinaceus 	Great Reed Warbler
+Камышовка пестроголовая 	Acrocephalus bistrigiceps 	Black-browed Reed Warbler
+Камышовка садовая 	Acrocephalus dumetorum 	Blyth's Reed Warbler
+Камышовка тонкоклювая 	Acrocephalus melanopogon, Lusciniola melanopogon 	Moustached Warbler
+Камышовка восточная дроздовидная 	Acrocephalus orientalis, Acrocephalus arundinaceus orientalis 	Oriental Reed-warbler
+Камышовка вертлявая 	Acrocephalus paludicola 	Aquatic Warbler
+Камышовка болотная 	Acrocephalus palustris 	Marsh Warbler
+Камышовка-барсучок 	Acrocephalus schoenobaenus 	Sedge Warbler
+Камышовка тростниковая 	Acrocephalus scirpaceus 	Reed Warbler
+Камышовка туркестанская 	Acrocephalus stentoreus 	Clamorous Reed Warbler
+Пестрогрудка сибирская 	Bradypterus tacsanowskius, Tribura tacsanowskia 	Chinese Bush Warbler
+Камышовка широкохвостая 	Cettia cetti 	Cetti's Warbler
+Бормотушка северная 	Hippolais calligata 	Booted Warbler
+Пересмешка зеленая 	Hippolais icterina 	Icterine Warbler
+Пересмешка пустынная 	Hippolais languida 	Upcher's Warbler
+Пересмешка бледная 	Hippolais pallida 	Olivaceous Warbler
+Бормотушка южная 	Hippolais rama, Iduna rama 	Sykes' Warbler
+Камышовка короткокрылая 	Horeites diphone 	Japanese Bush Warbler
+Сверчок певчий 	Locustella certhiola 	Pallas's Grasshopper Warbler
+Сверчок таежный 	Locustella fasciolata 	Grey's Warbler
+Сверчок речной 	Locustella fluviatilis 	River Warbler
+Сверчок пятнистый 	Locustella lanceolata 	Lanceolated Warbler
+Сверчок соловьиный 	Locustella luscinioides 	Savi's Warbler
+Сверчок обыкновенный 	Locustella naevia 	Grasshopper Warbler
+Сверчок охотский 	Locustella ochotensis 	Middendorff's Warbler
+Пеночка-таловка 	Phylloscopus borealis 	Arctic Warbler
+Пеночка-теньковка 	Phylloscopus collybita 	Chiffchaff
+Пеночка бурая 	Phylloscopus fuscatus 	Dusky Warbler
+Пеночка индийская 	Phylloscopus griseolus 	Dusky Warbler
+Пеночка-зарничка 	Phylloscopus inornatus 	Yellow-browed Warbler
+Пеночка кавказская 	Phylloscopus lorenzii 	Mountain Chiffchaff
+Пеночка иранская 	Phylloscopus neglectus 	Plain Leaf-warbler
+Пеночка корольковая 	Phylloscopus proregulus 	Pallas's Warbler
+Пеночка толстоклювая 	Phylloscopus schwarzi 	Radde's Warbler
+Пеночка-трещотка 	Phylloscopus sibilatrix, sibilator 	Wood Warbler
+Пеночка бледноногая 	Phylloscopus tenellipes 	Pale-legged Willow Warbler
+Пеночка зеленая 	Phylloscopus trochiloides 	Greenish Warbler
+Пеночка-весничка 	Phylloscopus trochilus 	Willow Warbler
+Славка вертлявая 	Scotocerca inquieta 	Streaked Scrub-warbler
+Славка горная 	Sylvia althea 	Hume's Whitethroat
+Славка черноголовая 	Sylvia atricapilla 	Blackcap
+Славка садовая 	Sylvia borin 	Garden Warbler
+Славка серая 	Sylvia communis 	Whitethroat
+Славка-завирушка 	Sylvia curruca 	Lesser Whitethroat
+Славка певчая 	Sylvia hortensis 	Orphean Warbler
+Славка белоусая 	Sylvia mystacea 	Menetries's Warbler
+Славка ястребиная 	Sylvia nisoria 	Barred Warbler
+Тимелия полосатая 	Garrulax lineatus 	Streaked Laughingthrush
+Крапивник 	Troglodytes troglodytes 	Eurasian Wren
+Дрозд малый 	Catharus minimus 	Grey-cheeked Thrush
+Соловей тугайный 	Cercotrichas galactoides 	Rufous Bush Robin
+Зарянка 	Erithacus rubecula 	Robin
+Соловей-белошейка 	Irania gutturalis 	White-throated Robin
+Соловей-красношейка 	Luscinia calliope 	Siberian Rubythroat
+Соловей синий 	Luscinia cyane 	Siberian Blue Robin
+Соловей 	Luscinia luscinia 	Thrush Nightingale
+Соловей южный 	Luscinia megarhynchos 	Nightingale
+Красношейка черногрудая 	Luscinia pectoralis 	White-tailed Rubythroat
+Соловей-свистун 	Luscinia sibilans 	Rufous-tailed Robin
+Варакушка 	Luscinia svecica 	Bluethroat
+Дрозд пестрый каменный 	Monticola saxatilis 	Rock Thrush
+Дрозд синий каменный 	Monticola solitarius 	Blue Rock Thrush
+Птица синяя 	Myophonus caeruleus 	Blue Whistling-thrush
+Каменка златогузая 	Oenanthe chrysopygia, Oenanthe xanthoprymna chrysopygia 	Red-tailed Wheatear
+Каменка пустынная 	Oenanthe deserti 	Desert Wheatear
+Каменка черношейная 	Oenanthe finschii 	Finsch's Wheatear
+Каменка испанская 	Oenanthe hispanica 	Black-eared Wheatear
+Каменка-плясунья 	Oenanthe isabellina 	Isabelline Wheatear
+Каменка 	Oenanthe oenanthe 	Wheatear
+Каменка черная 	Oenanthe picata 	Variable Wheatear
+Каменка-плешанка 	Oenanthe pleschanka 	Pied Wheatear
+Горихвостка сибирская 	Phoenicurus auroreus 	Daurian Redstart
+Горихвостка краснобрюхая 	Phoenicurus erythrogaster 	Guldenstadt's Redstart
+Горихвостка красноспинная 	Phoenicurus erythronotus 	Rufous-backed Redstart
+Горихвостка-чернушка 	Phoenicurus ochruros 	Black Redstart
+Горихвостка садовая 	Phoenicurus phoenicurus 	Redstart
+Чекан черный 	Saxicola caprata 	Pied Bushchat
+Чекан луговой 	Saxicola rubetra 	Whinchat
+Чекан черноголовый 	Saxicola torquata 	Stonechat
+Синехвостка 	Tarsiger cyanurus 	Red-flanked Bluetail
+Дрозд золотистый 	Turdus chrysolaus 	Red-bellied Thrush
+Дрозд бурый 	Turdus eunomus 	Dusky Thrush
+Дрозд сизый 	Turdus hortulorum 	Grey-backed Thrush
+Дрозд-белобровик 	Turdus iliacus, musicus 	Redwing
+Дрозд черный 	Turdus merula 	Blackbird
+Дрозд Науманна 	Turdus naumanni 	Naumann's Thrush
+Дрозд оливковый 	Turdus obscurus 	Eye-browed Thrush
+Дрозд бледный 	Turdus pallidus 	Pale Thrush
+Дрозд певчий 	Turdus philomelos 	Song Thrush
+Дрозд-рябинник 	Turdus pilaris 	Fieldfare
+Дрозд краснозобый 	Turdus ruficollis 	Red-throated Thrush
+Дрозд белозобый 	Turdus torquatus 	Ring Ouzel
+Деряба 	Turdus viscivorus 	Mistle Thrush
+Дрозд пестрый 	Zoothera dauma, Zoothera varia 	White's Thrush
+Дрозд сибирский 	Zoothera sibirica 	Siberian Thrush
+Ара красный 	Ara macao 	Scarlet macaw
+Пингвин Гумбольдта 	Spheniscus humboldti 	Humboldt Penguin
+Страус африканский 	Struthio camelus 	Ostrich
