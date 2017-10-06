@@ -3,69 +3,74 @@ require "telegram/bot"
 require 'dotenv'
 Dotenv.load('token.env')
 
-def mineral
-  File.open ('mineral.txt') do |file|
-    lines = file.readlines
+class TelegramBot
+
+  def animals
+    File.open ('animals.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-MINERAL = mineral
 
-def fish
-  File.open ('fish.txt') do |file|
-    lines = file.readlines
+  def bird
+    File.open ('bird.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-FISH = fish
 
-def motion
-  File.open ('motion.txt') do |file|
-    lines = file.readlines
+  def fish
+    File.open ('fish.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-MOTION = motion
 
-def landscape
-  File.open ('landscape.txt') do |file|
-    lines = file.readlines
+  def plant
+    File.open ('plant.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-LANDSCAPE = landscape
 
-def color
-  File.open ('color.txt') do |file|
-    lines = file.readlines
+  def landscape
+    File.open ('landscape.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-COLOR = color
 
-def bird
-  File.open ('bird.txt') do |file|
-    lines = file.readlines
+  def motion
+    File.open ('motion.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-BIRD = bird
-
-def animals
-  File.open ('animals.txt') do |file|
-    lines = file.readlines
+  def color
+    File.open ('color.txt') do |file|
+      lines = file.readlines
+    end
   end
-end
-ANIMALS = animals
 
-
-def random
-  lines1 = File.read ("test.txt")
-  lines1.tr(',.','').split().compact
-end
-RANDOM = random
-
-
-def plant
-  File.open ('plant.txt') do |file|
-    lines = file.readlines
+  def mineral
+    File.open ('mineral.txt') do |file|
+      lines = file.readlines
+    end
   end
+
+  # def random
+  #   lines1 = File.read ("test.txt")
+  #   lines1.tr(',.','').split().compact
+  # end
 end
-PLANT = plant
+
+sketch = TelegramBot.new
+
+ANIMALS = sketch.animals
+BIRD = sketch.bird
+FISH = sketch.fish
+PLANT = sketch.plant
+LANDSCAPE = sketch.landscape
+MOTION = sketch.motion
+COLOR = sketch.color
+MINERAL = sketch.mineral
+# RANDOM = sketch.random
+
+
 
 
 
@@ -154,10 +159,10 @@ Telegram::Bot::Client.run(ENV['TOKEN']) do |bot|
       chat_id: message.chat.id,
       text: MINERAL.sample)
 
-    when 'Random'
-      bot.api.send_message(
-      chat_id: message.chat.id,
-      text: RANDOM.sample)
+    # when 'Random'
+    #   bot.api.send_message(
+    #   chat_id: message.chat.id,
+    #   text: RANDOM.sample)
 
     else
       # bot.api.send_message(
