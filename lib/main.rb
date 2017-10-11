@@ -1,6 +1,6 @@
 require "telegram/bot"
 require 'dotenv'
-require_relative "./lib/telegrambot"
+require "./lib/telegrambot"
 Dotenv.load('./lib/token.env')
 
 
