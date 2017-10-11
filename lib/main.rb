@@ -1,8 +1,8 @@
-# рабочая версия бота - запуск bundle exec ruby main.rb
 require "telegram/bot"
 require 'dotenv'
-require_relative "telegrambot"
-Dotenv.load('token.env')
+require_relative "./lib/telegrambot"
+Dotenv.load('./lib/token.env')
+
 
 
 

@@ -1,48 +1,48 @@
 module Telebot
   class TelegramBot
     def animals
-      File.open ('lib/animals.txt') do |file|
+      File.open ('dict/animals.txt') do |file|
         lines = file.readlines
       end
     end
-    
+
     def bird
-      File.open ('lib/bird.txt') do |file|
+      File.open ('dict/bird.txt') do |file|
         lines = file.readlines
       end
     end
 
     def fish
-      File.open ('lib/fish.txt') do |file|
+      File.open ('dict/fish.txt') do |file|
         lines = file.readlines
       end
     end
 
     def plant
-      File.open ('lib/plant.txt') do |file|
+      File.open ('dict/plant.txt') do |file|
         lines = file.readlines
       end
     end
 
     def landscape
-      File.open ('lib/landscape.txt') do |file|
+      File.open ('dict/landscape.txt') do |file|
         lines = file.readlines
       end
     end
 
     def motion
-      File.open ('lib/motion.txt') do |file|
+      File.open ('dict/motion.txt') do |file|
         lines = file.readlines
       end
     end
     def color
-      File.open ('lib/color.txt') do |file|
+      File.open ('dict/color.txt') do |file|
         lines = file.readlines
       end
     end
 
     def mineral
-      File.open ('lib/mineral.txt') do |file|
+      File.open ('dict/mineral.txt') do |file|
         lines = file.readlines
       end
     end
